@@ -1,4 +1,4 @@
-# Spotify Clone — Frontend
+# AudioAura — Frontend
 
 React + Vite + Tailwind CSS frontend for the Spotify Clone MERN backend.
 
